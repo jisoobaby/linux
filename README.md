@@ -8,7 +8,7 @@
 > - [Linux 学习笔记](https://www.zhimakm.xyz/linux-notes/)
 > - [数据结构学习笔记](https://www.zhimakm.xyz/data-structure-notes/)
 >
-> 个人博客：[www.zhimakm.xyz](https://www.zhimakm.xyz/)
+> 个人博客：[www.zhimakm.xyz](http://www.zhimakm.xyz/)
 
 
 # 目录
